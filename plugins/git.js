@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *Bot making video : https://youtu.be/fd0KPblop-k*
 
-*Yt_PASSWORD: _________(password on this video watch it full)*
+*Yt_PASSWORD: afamk)*
 
 *githublink : https://github.com/sachusamu-c/Rockser_v2*
 
