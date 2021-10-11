@@ -1,9 +1,9 @@
 {
-    "name": "Amalser_v2 ",
-    "description": "Amalser_v2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-    "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
+    "name": "Rockser_v2 ",
+    "description": "Rockser_v2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "logo": "https://i.imgur.com/4qEUHGH.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/sachusamu-c/Amalser_v2",
+    "repository": "https://github.com/sachusamu-c/Rockser_v2",
     "website":   "https://github.com/farhan-dqz/Julie-Mwol",
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
